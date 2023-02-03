@@ -1,5 +1,5 @@
 {
-    "name": "CrishParmar/craft-donation-form",
+    "name": "crish-parmar/craft-donation-form",
     "description": "Our Plugin is dontaion form help to capture payment from PayPal as donation",
     "type": "craft-donation-form",
     "keywords": ["donation", "payment", "paypal"],
