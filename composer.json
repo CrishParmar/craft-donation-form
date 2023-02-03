@@ -1,0 +1,31 @@
+{
+    "name": "CrishParmar/craft-donation-form",
+    "description": "Our Plugin is dontaion form help to capture payment from PayPal as donation",
+    "type": "craft-donation-form",
+    "keywords": ["donation", "payment", "paypal"],
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Cristopher",
+        "homepage": "https://wpbuilderweb.com"
+      }
+    ],
+    "support": {
+      "email": "crish.parmar@gmail.com",
+      "issues": "https://github.com/developer/repo/issues?state=open",
+      "source": "https://github.com/developer/repo",
+      "docs": "https://github.com/developer/repo/blob/master/README.md"
+    },
+    "require": {
+      "craftcms/cms": "^3.1.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "namespace\\prefix\\": "src/"
+      }
+    },
+    "extra": {
+      "name": "Donation Form",
+      "handle": "craft-donation-form"
+    }
+  }
